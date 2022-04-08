@@ -1,0 +1,11 @@
+id: f495a7cf0618460886e04491e93633b2
+annotation_type: index
+revision: '00001'
+annotations:
+  06639924f2904df4a6644e3f5457c3ec:
+    parts: {}
+    span:
+    - vol: 26
+      start: 0
+      end: 2709
+    work_id: N1901
